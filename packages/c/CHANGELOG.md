@@ -1,3 +1,11 @@
+## 1.0.7 (2024-07-12)
+
+### 🔀 Miscellaneous 🔀
+
+- Version bump forced for all
+
+---
+
 ## 1.0.5 (2024-07-12)
 
 ### 🔀 Miscellaneous 🔀
