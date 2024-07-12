@@ -1,0 +1,25 @@
+{
+  "name": "lets-bug",
+  "workspaces": [
+    "./packages/*"
+  ],
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemdanylenko/lets-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artemdanylenko/lets-bug/issues"
+  },
+  "homepage": "https://github.com/artemdanylenko/lets-bug#readme",
+  "dependencies": {
+    "@better-builds/turbo-tools": "^7.1.2"
+  }
+}
