@@ -21,5 +21,6 @@
   "homepage": "https://github.com/artemdanylenko/lets-bug#readme",
   "dependencies": {
     "@better-builds/turbo-tools": "^7.1.2"
-  }
+  },
+  "packageManager": "npm@10.2.4"
 }
