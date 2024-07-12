@@ -1,3 +1,11 @@
+## 1.0.3 (2024-07-12)
+
+### 🔀 Miscellaneous 🔀
+
+- Changes (86fdeca7c808bb5d9a3015cb50c62e45376bffee)
+
+---
+
 ## 1.0.2 (2024-07-12)
 
 ### 🔀 Miscellaneous 🔀
